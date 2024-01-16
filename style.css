@@ -34,6 +34,10 @@ h1,
     line-height: 1vh;
 }
 
+#h1-title{
+    font-size: 6vh;
+}
+
 body {
     background-attachment: fixed;
     background-image: url('images/cover-1920x1080.jpeg');
@@ -241,6 +245,10 @@ audio {
         font-size: calc(5vh * 0.7);
         letter-spacing: calc(0.2vh * 0.7);
         line-height: calc(1vh * 0.7);
+    }
+
+    #h1-title{
+        font-size: calc(6vh * 0.7);
     }
 
     #main hr {
