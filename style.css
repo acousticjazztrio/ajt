@@ -13,10 +13,10 @@ body,
 p,
 h1,
 .text-button {
-    font-family: 'Lora', serif;
+    font-family: 'Kumbh Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 300;
     text-rendering: optimizeLegibility;
 }
 
@@ -129,10 +129,10 @@ body {
 
 .section-text {
     color: black;
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Kumbh Sans', sans-serif;
     font-size: calc(4vh * 0.7);
     font-style: normal;
-    font-weight: 400;
+    font-weight: 300;
     height: 50%;
     letter-spacing: calc(0.2vh * 0.7);
     margin: auto;
@@ -161,10 +161,10 @@ audio {
 
 .bio-text {
     color: black;
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Kumbh Sans', sans-serif;
     font-size: calc(4vh * 0.7);
     font-style: normal;
-    font-weight: 400;
+    font-weight: 300;
     letter-spacing: calc(0.2vh * 0.7);
     margin: auto;
     position: relative;
