@@ -100,8 +100,8 @@ body {
 
 .section-title {
     background-color: white;
-    /* border-bottom: 1px solid; */
-    /* box-shadow: 0 5px 5px -5px #999; */
+    /* border-bottom: 1px solid; */    
+    /* box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28); */
     color: black;
     display: block;
     height: 11%;
